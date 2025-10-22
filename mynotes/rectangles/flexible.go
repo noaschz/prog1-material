@@ -12,5 +12,6 @@ func DrawRectangle(height, width int, inner, outer string) {
 			}
 		}
 		fmt.Println()
+
 	}
 }
