@@ -1,7 +1,11 @@
 package listprops
 
 // ContainsNRow liefert true, falls die Liste l
+<<<<<<< HEAD
 // String x n mal hintereinander enthält.
+=======
+// den String x n mal hintereinander enthält.
+>>>>>>> 9a22e09e105f7d8388ac0794ab0dcb95e29cca77
 func ContainsNRow(l []string, x string, n int) bool {
 	// TODO
 	var counter int
